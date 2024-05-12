@@ -1,2 +1,4 @@
 # MarkovChain
-Use of Markov chain.
+A Markov chain is a mathematical model used to describe a sequence of possible events in which the probability of each event depends only on the state attained in the previous event.In simpler terms, imagine a system that can be in one of several possible states, and it transitions from one state to another over discrete time steps. The key characteristic of a Markov chain is that the future state of the system depends solely on its current state and not on how it arrived at that state. Markov chains find applications in various fields such as statistics, finance, biology, physics, computer science, and many more.
+
+In this case we have two state system, with uneven probability of transition from each state. In the end we arrive at stationary probabilities of being in proper states.
